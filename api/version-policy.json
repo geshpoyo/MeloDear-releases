@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-08T23:14:05Z",
+  "updatedAt": "2026-09-10T06:43:14Z",
   "signature": "",
   "rules": [],
   "latest": {
-    "version": "0.2.3+4",
-    "tag": "v0.2.3.4",
-    "notesUrl": "https://github.com/geshpoyo/MeloDear-releases/releases/tag/v0.2.3.4",
+    "version": "0.2.3+7",
+    "tag": "v0.2.3.7",
+    "notesUrl": "https://github.com/geshpoyo/MeloDear-releases/releases/tag/v0.2.3.7",
     "msi": {
-      "url": "https://github.com/geshpoyo/MeloDear-releases/releases/download/v0.2.3.4/MeloDear-0.2.3.4-x64.msi",
-      "sha256": "b5022795f282c9056d75b43e20dcc0319f2c356df155658e0c543112b8200008",
-      "size": 35647488
+      "url": "https://github.com/geshpoyo/MeloDear-releases/releases/download/v0.2.3.7/MeloDear-0.2.3.7-x64.msi",
+      "sha256": "69391928910492bfaefecb415a540ba9596b398f0aed18b1be02e13b43334480",
+      "size": 35692544
     }
   }
 }
