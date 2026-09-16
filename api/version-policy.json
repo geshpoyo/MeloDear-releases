@@ -6,6 +6,7 @@
   "latest": {
     "version": "0.2.3+10",
     "tag": "v0.2.3.10",
+    "notesUrl": "https://github.com/geshpoyo/MeloDear-releases/releases/tag/v0.2.3.10",
     "msi": {
       "url": "https://github.com/geshpoyo/MeloDear-releases/releases/download/v0.2.3.10/MeloDear-0.2.3.10-x64.msi",
       "sha256": "6f7eaedfd15388b00c511691d79735c2bd182668401a5dbf4642a62948d77612",
